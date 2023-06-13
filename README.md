@@ -1,6 +1,6 @@
-# statistics-home-assignment-2-bicyclerepairservice
-statistics-home-assignment-2-bicyclerepairservice created by GitHub Classroom
-
-Домашнее задание II по предмету Статистика
-
-В процессе выполнения.....
+## Домашнее задание по Статистике
+Гусев Владислав, БЭК212
+Репозиторий состоит из следующих файлов:
+1. hw_statistics.pdf - решение в читабельном формате
+2. hw_statistics.ipynb - решение в формате кода
+3. кабачки.xlsx - данные для задач №4,№5 и №6
